@@ -1,6 +1,6 @@
 <div align="center">
  
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF5733&width=700&lines=Crafting+Exceptional+Flutter+Apps!;Building+Fast,+Beautiful,+and+Scalable+Solutions.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF5733&width=700&lines=Elevating+Mobile+Experiences+with+Flutter!;By+Developing+Sleek,+High-Performance,+and+Scalable+Apps.)](https://git.io/typing-svg)
 
 Developing cutting-edge, high-performance, and maintainable code for a diverse range of client and internal projects. Specializing in custom software solutions, ensuring businesses thrive by bridging technology with strategic goals.
 
