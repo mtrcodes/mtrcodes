@@ -7,8 +7,7 @@ Developing cutting-edge, high-performance, and maintainable code for a diverse r
  
  [![Flutter Badge](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=082032)](https://flutter.dev)
  [![Dart Badge](https://img.shields.io/badge/Dart-Wizard-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=082032)](https://dart.dev)
- [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&labelColor=082032)](https://github.com/MuhammadTuaha)
- [![Profile Views](https://komarev.com/ghpvc/?username=MuhammadTuaha&style=for-the-badge&color=blueviolet&labelColor=082032)](https://github.com/MuhammadTuaha)
+ 
  
  </div>
  
@@ -44,8 +43,7 @@ Developing cutting-edge, high-performance, and maintainable code for a diverse r
 | 🏗️ MVVM                      | 🎯 DRY Principle        | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code |
 | 🚀 Modular Development        | 🔥 Repository Pattern   | <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git |
 | ☁️ AWS Integration           | 🌀 Dependency Injection | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman |
-| 📜 API Documentation         | 🏗️ OOP Principles       | <img src="https://img.icons8.com/color/48/000000/swagger.png" width="24"/> Swagger
- |
+| 📜 API Documentation         | 🏗️ OOP Principles       | <img src="https://github.com/marwin1991/profile-technologyicons/blob/main/icons/swagger.png" width="24"/> Swagger|
  
  </div>
  
