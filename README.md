@@ -1,6 +1,9 @@
 <div align="center">
  
- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7D00F7&width=435&lines=Hello!+I+build+Flutter+apps.;Creating+sleek+mobile+experiences.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF5733&width=500&lines=Crafting+Exceptional+Flutter+Apps!;Building+Fast,+Beautiful,+and+Scalable+Solutions.)](https://git.io/typing-svg)
+
+Developing cutting-edge, high-performance, and maintainable code for a diverse range of client and internal projects. Specializing in custom software solutions, ensuring businesses thrive by bridging technology with strategic goals.
+
  
  [![Flutter Badge](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=082032)](https://flutter.dev)
  [![Dart Badge](https://img.shields.io/badge/Dart-Wizard-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=082032)](https://dart.dev)
@@ -71,13 +74,13 @@
  
  <div align="center">
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadtuaharizwan/)
- [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtrcodes@gmail.com)
- 
- ---
+
  
  <div align="center">
  
  ### 📫 I'm always open to collaboration and new opportunities. Let's build something amazing together! 🚀
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadtuaharizwan/)
+ [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtrcodes@gmail.com) 
  
+ ---
  </div>
