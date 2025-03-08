@@ -44,7 +44,8 @@ Developing cutting-edge, high-performance, and maintainable code for a diverse r
 | 🏗️ MVVM                      | 🎯 DRY Principle        | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code |
 | 🚀 Modular Development        | 🔥 Repository Pattern   | <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git |
 | ☁️ AWS Integration           | 🌀 Dependency Injection | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman |
-| 📜 API Documentation         | 🏗️ OOP Principles       | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-swagger-api-open-source-tools-used-for-designing-and-documenting-restful-apis-logo-color-tal-revivo.png" width="24"/> Swagger |
+| 📜 API Documentation         | 🏗️ OOP Principles       | <img src="https://img.icons8.com/color/48/000000/swagger.png" width="24"/> Swagger
+ |
  
  </div>
  
@@ -55,12 +56,12 @@ Developing cutting-edge, high-performance, and maintainable code for a diverse r
  ### Core Tools and Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
  
  ### Development Tools
