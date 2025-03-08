@@ -43,7 +43,7 @@ Developing cutting-edge, high-performance, and maintainable code for a diverse r
 | 🏗️ MVVM                      | 🎯 DRY Principle        | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="24"/> VS Code |
 | 🚀 Modular Development        | 🔥 Repository Pattern   | <img src="https://img.icons8.com/color/48/git.png" width="24"/> Git |
 | ☁️ AWS Integration           | 🌀 Dependency Injection | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman |
-| 📜 API Documentation         | 🏗️ OOP Principles       | <img src="https://github.com/marwin1991/profile-technologyicons/blob/main/icons/swagger.png" width="24"/> Swagger|
+| 📜 API Documentation         | 🏗️ OOP Principles       | Swagger|
  
  </div>
  
